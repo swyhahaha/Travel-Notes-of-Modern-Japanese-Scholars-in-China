@@ -1,2 +1,1 @@
-# test1
-To learn the usage of github
+# 近代日本学者中国游记
